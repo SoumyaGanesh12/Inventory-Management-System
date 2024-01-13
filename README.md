@@ -1,5 +1,4 @@
 # Inventory_Management_System
-DMDD Group Project - Inventory Management System
 
 IMSDB_ADMIN script to be run 
 1.  Script1.sql creates application admin IMS_ADMIN and grants privileges.
