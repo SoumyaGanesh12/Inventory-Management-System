@@ -1,3 +1,5 @@
+-- Run as db administrator --
+
 SET SERVEROUTPUT ON;
 
 DECLARE
